@@ -1,3 +1,5 @@
+/* Trabalho realizado por: Alexandra Esteves (3200423), Catarina Geraldes (3200706), José Barosa (3200340) e Kateryna Oleshchenko (3210979), no ano letivo 2022-23, quinto semestre, na disciplina de Laboratório de Projeto I, curso Licenciatura de Design Gráfico e Multimédia na escola ESAD.CR, pedido pelo professor Marco Heleno, na data de entrega de 18-01-2023 */
+
 let scene;
 let mouseIsReleased;
 let maps;
