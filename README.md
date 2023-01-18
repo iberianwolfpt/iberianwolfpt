@@ -21,6 +21,14 @@ A CSV table was created within the code itself. This was used to be imported as 
 ![4d3d88124b9848b0ca39be25c0a0d670.png](4d3d88124b9848b0ca39be25c0a0d670.png)
 ![4d3d88124b9848b0ca39be25c0a0d670.png](4d3d88124b9848b0ca39be25c0a0d670.png)
 
-The following are the links for the data used to get the houses
+Fontes de recolha:
 https://www.pordata.pt/municipios/edificios+licenciados+para+habitacao+familiar+total+e+por+tipo+de+obra-107
 https://www.pordata.pt/municipios/edificios+concluidos+para+habitacao+familiar+total+e+por+tipo+de+obra-102
+https://www.icnf.pt/api/file/doc/4f9c051e0e8f2808
+https://www.grupolobo.pt/lobo-iberico
+http://www.palombar.pt/pt/noticias/o-censo-do-lobo-como-ele-e-2022-05-27/
+
+**Trabalho Realizado para a discimplina de Laboratórtio de projeto I:
+Professor Marco Heleno
+1ºSemestre Licenciatura de Design gráfico e multimédia
+Esad CR
